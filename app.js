@@ -20,7 +20,7 @@ const stream_fps = 20;
 // 2 = face meshes
 // 3 = poses
 // 4 = holistic
-const ai_detection_mode = 2;
+const ai_detection_mode = 4;
 // --------------------------------------------------
 
 
